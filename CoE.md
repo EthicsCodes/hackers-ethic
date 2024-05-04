@@ -29,6 +29,9 @@ I pledge to steadfastly uphold the tenets outlined, dedicating myself to the adv
 5. **Accountability** —
    Take ownership of your actions and their impact on the project.
 
+6. **Subsidiarity** —
+   Delegate decisions locally where appropriate to promote efficient autonomy.
+
 ## Scope
 
 This code governs all correspondence within [canonical project spaces][canon], which are defined as any platform or venue where project activities are conducted.
