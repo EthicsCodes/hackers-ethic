@@ -8,7 +8,7 @@ Moreover, we emphatically oppose incompatible ideologies that elevate mobs or de
 
 Those who embrace these principles will receive a warm welcome.
 
-## Hacker's Accord
+## Hacker's Assurance
 
 I pledge to steadfastly uphold the tenets outlined, dedicating myself to the advancement of the project and the well-being of its denizens. I accept them as fundamentally essential to productive, mutual cooperation. Therefore, I will embody these values in all my dealings, and to the best of my ability.
 
@@ -38,7 +38,7 @@ This code governs all correspondence within [canonical project spaces][canon], w
 
 ## Eligibility
 
-Contributing implicitly honors the [Hacker's Accord](#hackers-accord) and [Ethos](#hackers-ethos). Actions which subvert these fundamentals, such as prioritizing orthogonal agendas, engaging in divisive conduct, or squandering project resources are subject to review and potential [remediation](./remediation.md).
+Contributing implicitly honors the [Hacker's Assurance](#hackers-accord) and [Ethos](#hackers-ethos). Actions which subvert these fundamentals, such as prioritizing orthogonal agendas, engaging in divisive conduct, or squandering project resources are subject to review and potential [remediation](./remediation.md).
 
 [canon]: https://example.com/list-of-official-spaces
 [owners]: https://example.com/list-of-project-owners
