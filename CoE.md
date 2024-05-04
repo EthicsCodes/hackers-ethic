@@ -12,7 +12,7 @@ Those who embrace this notion will receive a warm welcome.
 
 ## Hacker's Bond
 
-I pledge to steadfastly uphold this ethic and its tenets as outlined, dedicating myself to the advancement of the project and the well-being of its denizens. I accept them as fundamentally essential to productive, mutual cooperation. Therefore, I will embody these values in all my dealings, and to the best of my ability.
+I pledge to steadfastly uphold this Ethic and its tenets as outlined, dedicating myself to the advancement of the project and the well-being of its denizens. I accept them as fundamentally essential to productive, mutual cooperation. Therefore, I will embody these values in all my dealings, and to the best of my ability.
 
 ### Tenets
 
