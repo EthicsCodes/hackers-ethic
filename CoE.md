@@ -20,17 +20,20 @@ I pledge to steadfastly uphold the tenets outlined, dedicating myself to the adv
 2. **Accountability** —
    Take ownership of your actions and their impact on the project.
 
-3. **Analysis** —
+3. **Flexibility** —
+   Be open, collaborate, experiment, innovate, adapt, pivot, and profit.
+
+4. **Analysis** —
    Change requests are courteously scrutinized for quality, conciseness, and relevance.
 
-4. **Transparency** —
+5. **Transparency** —
    All decision-making processes are documented and swiftly made perpetually accessible to ensure efficacy.
 
-5. **Professionalism** —
-   Consider _all_ hackers as equals, exhibit decorum, and cultivate self-discipline.
+6. **Simplicity** —
+   Everything as simple as possible, without compromise.
 
-6. **Subsidiarity** —
-   Delegate decisions locally where appropriate to promote efficient autonomy.
+7. **Professionalism** —
+   Consider _all_ hackers as equals, exhibit decorum, and cultivate self-discipline.
 
 ## Scope
 
