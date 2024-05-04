@@ -11,7 +11,9 @@ This section outlines the specific goals for this repository, with all responsib
 
 2. Minimal Supplementation
 
-   Provide optional supplementary documents that detail policies consistent with this code's spirit. These policy documents should adhere to the code's tenets and be as concise as possible. They should also be regularly reviewed to ensure strict compliance with the code. You may modify these documents as needed. However, if you develop new policies or alter existing ones, ensure they align with the original Ethic to avoid compromising your enterprise's integrity.
+   Provide optional supplementary documents that detail policies consistent with this code's spirit. These policy documents should adhere to the code's tenets and be as concise as possible. They should also be regularly reviewed to ensure strict compliance with the code.
+
+   > **Note to Adopters:** You may modify these documents as needed. However, if you develop new policies or alter existing ones, ensure they align with the original Ethic to avoid compromising your enterprise's integrity.
 
 3. Dogfooding
 
