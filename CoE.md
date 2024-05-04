@@ -23,7 +23,7 @@ I pledge to steadfastly uphold this ethic and its tenets as outlined, dedicating
    Everything as simple as possible, without compromise.
 
 3. **Flexibility** —
-   Be open, collaborate, experiment, innovate, adapt, pivot, and profit.
+   Be open, collaborate, experiment, innovate, adapt, pivot, profit, and repeat...
 
 4. **Accountability** —
    Take ownership of your actions and their impact on the project.
