@@ -17,8 +17,8 @@ I pledge to steadfastly uphold the tenets outlined, dedicating myself to the adv
 1. **Purpose** —
    Every action and decision must aim to directly advance the project's [technical goals][goals], aligning with the vision set forth by the [project owner(s)][owners].
 
-2. **Critique** —
-   Change requests are courteously assessed based on their quality and relevance.
+2. **Analysis** —
+   Change requests are courteously scrutinized for quality, conciseness, and relevance.
 
 3. **Transparency** —
    All decision-making processes are documented and made immediately accessible to ensure efficacy.
