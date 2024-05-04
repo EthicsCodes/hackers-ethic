@@ -12,7 +12,7 @@ Those who embrace these principles will receive a warm welcome.
 
 I pledge to steadfastly uphold the tenets outlined, dedicating myself to the advancement of the project and the well-being of its denizens. I accept them as fundamentally essential to productive, mutual cooperation. Therefore, I will embody these values in all my dealings, and to the best of my ability.
 
-## Tenets
+### Tenets
 
 1. **Purpose** —
    Every action and decision must aim to directly advance the project's [technical goals][goals], aligning with the vision set forth by the [project owner(s)][owners].
