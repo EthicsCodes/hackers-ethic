@@ -45,6 +45,6 @@ This code governs all correspondence within [canonical project spaces][canon], w
 
 Contribution implies a binding commitment to this Code of Ethics, in its entirety. Actions which subvert these fundamentals, such as prioritizing orthogonal agendas, engaging in divisive conduct, or squandering project resources are subject to review and potential [remediation](./docs/remediation.md).
 
-[canon]: https://example.com/list-of-official-spaces
-[owners]: https://example.com/list-of-project-owners
-[goals]: https://example.com/list-of-project-goals
+[canon]: ./docs/spaces.md
+[owners]: ./docs/CODEOWNERS
+[goals]: ./docs/goals.md
