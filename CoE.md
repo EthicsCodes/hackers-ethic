@@ -17,20 +17,20 @@ I pledge to steadfastly uphold the tenets outlined, dedicating myself to the adv
 1. **Purpose** —
    Every action and decision must aim to directly advance the project's [technical goals][goals], aligning with the vision set forth by the [project owner(s)][owners].
 
-2. **Accountability** —
-   Take ownership of your actions and their impact on the project.
+2. **Simplicity** —
+   Everything as simple as possible, without compromise.
 
 3. **Flexibility** —
    Be open, collaborate, experiment, innovate, adapt, pivot, and profit.
 
-4. **Analysis** —
+4. **Accountability** —
+   Take ownership of your actions and their impact on the project.
+
+5. **Analysis** —
    Change requests are courteously scrutinized for quality, conciseness, and relevance.
 
-5. **Transparency** —
+6. **Transparency** —
    All decision-making processes are documented and swiftly made perpetually accessible to ensure efficacy.
-
-6. **Simplicity** —
-   Everything as simple as possible, without compromise.
 
 7. **Professionalism** —
    Consider _all_ hackers as equals, exhibit decorum, and cultivate self-discipline.
