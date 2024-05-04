@@ -21,7 +21,7 @@ I pledge to steadfastly uphold the tenets outlined, dedicating myself to the adv
    Change requests are courteously scrutinized for quality, conciseness, and relevance.
 
 3. **Transparency** —
-   All decision-making processes are documented and made immediately accessible to ensure efficacy.
+   All decision-making processes are documented and swiftly made perpetually accessible to ensure efficacy.
 
 4. **Professionalism** —
    Consider _all_ hackers as equals, exhibit decorum, and cultivate self-discipline.
