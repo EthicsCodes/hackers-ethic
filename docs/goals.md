@@ -18,3 +18,7 @@ This section outlines the specific goals for this repository, with all responsib
 3. Dogfooding
 
    Offer a canonical example that demonstrates how to implement this code and its underlying principles across this repository and its associated spaces. All supplementary documents should be regarded as effective.
+
+## Subsidiary Goals
+
+<!--- TODO -->
