@@ -1,5 +1,7 @@
 # Code of Ethics
 
+Welcome to our Hacker Code of Ethics. This document delineates the core principles guiding our conduct and decisions. Anchored in respect for individual rights and collaborative integrity, it serves as our ethical compass.
+
 ## Hackers' Ethos
 
 We uphold individual sovereignty, underpinned by such values as respect, autonomy, integrity, openness, and pragmatism, as the cornerstone of consensual collaboration.
