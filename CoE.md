@@ -43,7 +43,7 @@ This code governs all correspondence within [canonical project spaces][canon], w
 
 ## Eligibility
 
-Contribution implies a binding commitment to this Code of Ethics, in its entirety. Actions which subvert these fundamentals, such as prioritizing orthogonal agendas, engaging in divisive conduct, or squandering project resources are subject to review and potential [remediation](./docs/remediation.md).
+Contribution implies a [binding commitment](#hackers-bond) to this Code of Ethics, in its entirety. Actions which subvert these fundamentals, such as prioritizing orthogonal agendas, engaging in divisive conduct, or squandering project resources are subject to review and potential [remediation](./docs/remediation.md).
 
 [canon]: ./docs/spaces.md
 [owners]: ./docs/CODEOWNERS
