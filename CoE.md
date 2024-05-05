@@ -6,13 +6,13 @@ Welcome to our Hacker Code of Ethics. This document delineates the core principl
 
 We uphold individual sovereignty, underpinned by such values as respect, autonomy, integrity, openness, and pragmatism, as the cornerstone of consensual collaboration.
 
-Moreover, we emphatically oppose incompatible ideologies that elevate mobs or demagogues above individual hackers, and we deliberately choose tools and processes which aid in resisting their incursion into our domain.
+Consequently, we emphatically oppose the prioritization of ideology over the will of the individual hacker, and are committed to actively seeking, and meticulously crafting tools and processes that robustly defend against any such encroachments into our domain.
 
 Those who embrace this notion will receive a warm welcome.
 
 ## Hacker's Bond
 
-I pledge to steadfastly uphold this Ethic and its tenets as outlined, dedicating myself to the advancement of the project and the well-being of its denizens. I accept them as fundamentally essential to productive, mutual cooperation. Therefore, I will embody these values in all my dealings, and to the best of my ability.
+I solemnly pledge to uphold this Ethic and its tenets as outlined. I recognize these principles as the bedrock of productive, mutual cooperation and as fundamental to our collective success. Further, I dedicate myself to the advancement of the project and the well-being of its denizens, and to that end, will enact these values in all my dealings here, to the best of my ability.
 
 ### Tenets
 
