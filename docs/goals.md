@@ -9,6 +9,8 @@ This section outlines the specific goals for this repository, with all responsib
 
    The primary aim of this repository is to distill core ethical principles which recognize the sovereignty of the individual and guide the software development process effectively. These principles will be consolidated into a [single document](/CoE.md). Additional details will be relegated to supplementary documents, ensuring that only essential information is included in the main "Code of Ethics".
 
+   > **Note to Adopters:** We recommend that if you elect to modify the document for your specific project, limit the changes to no more than 10 tenets to maintain simplicity. The goal is to keep the Ethic focused on a manageable number of clear and actionable principles that all project participants can easily understand and agree upon.
+
 2. Minimal Supplementation
 
    Provide optional supplementary documents that detail policies consistent with this code's spirit. These policy documents should adhere to the code's tenets and be as concise as possible. They should also be regularly reviewed to ensure strict compliance with the code.
