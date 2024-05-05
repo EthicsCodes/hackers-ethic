@@ -1,6 +1,6 @@
 # Introduction
 
-This section outlines the specific goals for this repository, with all responsibilities falling to the designated [code owners](./CODEOWNERS) unless stated otherwise. In line with the first tenet of the code, direct any questions, concerns, or suggestions for modifications to them. While proposals for changes are welcome, please note that the goal owner(s) have the final say on the inclusion of any modifications. To avoid repeating the entire code, refer to the [Code of Ethics](/CoE.md) for further guidance.
+This section outlines the specific goals for this repository, with all responsibilities for a given goal falling to the designated [code owners](./CODEOWNERS) unless otherwise stated. In line with the first tenet of the code, direct any questions, concerns, or suggestions for modifications to them. While proposals for changes are welcome, please note that the goal owner(s) have the final say on the inclusion of any modifications. To avoid repeating the entire code, refer to the [Code of Ethics](/CoE.md) for further guidance.
 
 
 ## Ranked Goals
