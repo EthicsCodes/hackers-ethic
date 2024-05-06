@@ -12,7 +12,7 @@ Those who embrace this notion will receive a warm welcome.
 
 ## Hacker's Bond
 
-I solemnly pledge to uphold this Ethic and its tenets as outlined. I recognize these principles as the bedrock of productive, mutual cooperation and as fundamental to our collective success. Further, I dedicate myself to the advancement of the project and the well-being of its denizens, and to that end, will enact these values in all my dealings here, to the best of my ability.
+I pledge to steadfastly uphold this Ethic as outlined, committing first to think freely. As such, I recognize these tenets and their founding Ethos as the bedrock of productive, mutual cooperation, and so as essential to our collective success. Further, I dedicate myself to the advancement of the project and the well-being of its denizens, and to that end, will enact these values in all my dealings here.
 
 ### Tenets
 
