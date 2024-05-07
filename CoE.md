@@ -4,11 +4,11 @@ Welcome to our Hacker Code of Ethics. This document delineates the core principl
 
 ## Hackers' Ethos
 
-We uphold individual sovereignty, underpinned by such values as respect, autonomy, integrity, openness, and pragmatism, as the cornerstone of consensual collaboration.
+Recognized as independent operators, individuals commit to the principles of respect, autonomy, integrity, openness, and pragmatism, while aligning their efforts with clearly defined shared goals.
 
-Moreover, we emphatically oppose incompatible ideologies that elevate mobs or demagogues above individual hackers, and we deliberately choose tools and processes which aid in resisting their incursion into our domain.
+Clear and transparent processes are established to uphold these principles, ensuring that personal autonomy is respected, and the collective mission is advanced.
 
-Those who embrace this notion will receive a warm welcome.
+We invite those who share these values to contribute to a space governed by clear ethical standards and mutual respect.
 
 ## Hacker's Bond
 
