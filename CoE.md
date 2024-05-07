@@ -1,49 +1,49 @@
 # Code of Ethics
 
-Welcome to our Hacker Code of Ethics. This document delineates the core principles guiding our conduct and decisions. Anchored in respect for individual rights and collaborative integrity, it serves as our ethical compass.
+Welcome to our Hacker Code of Ethics, which outlines the core principles guiding our conduct and decisions, anchored in respect for individual rights and collaborative integrity.
 
 ## Hackers' Ethos
 
-Recognized as independent operators, individuals commit to the principles of respect, autonomy, integrity, openness, and pragmatism, while aligning their efforts with clearly defined shared goals.
+As independent operators, individuals commit to respect, autonomy, integrity, openness, and pragmatism, aligning their efforts with clearly defined project goals.
 
-Clear and transparent processes are established to uphold these principles, ensuring that personal autonomy is respected, and the collective mission is advanced.
+Transparent processes are established to uphold these principles, ensuring personal autonomy and advancing our collective mission.
 
 We invite those who share these values to contribute to a space governed by clear ethical standards and mutual respect.
 
 ## Hacker's Bond
 
-I pledge to steadfastly uphold this Ethic and its tenets as outlined, dedicating myself to the advancement of the project and the well-being of its denizens. I accept them as fundamentally essential to productive, mutual cooperation. Therefore, I will embody these values in all my dealings, and to the best of my ability.
+I pledge to uphold this Ethic, committing to think freely and recognizing these tenets and Ethos as essential for productive cooperation and collective success. I dedicate myself to advancing the project, the well-being of its participants, and my own skills and knowledge, enacting these values in all my interactions.
 
 ### Tenets
 
 1. **Purpose** —
-   Directly advance the project's [technical goals][goals] in alignment with the [project owner(s)'][owners] vision through every action and decision.
+   Advance the project's [technical goals][goals] in alignment with the [project owner(s)'][owners] vision.
 
 2. **Simplicity** —
-   Make everything as simple as possible, without compromise.
+   Strive for simplicity, avoiding unnecessary complexity.
 
 3. **Flexibility** —
-   Be open, collaborate, experiment, innovate, adapt, pivot, profit, and repeat...
+   Be open, collaborate, experiment, innovate, adapt, and evolve.
 
 4. **Accountability** —
-   Take ownership of your actions and their impact on the project.
+   Own your actions and their impacts.
 
 5. **Analysis** —
-   Courteously scrutinize change requests for quality, conciseness, and relevance.
+   Scrutinize change requests for quality, conciseness, and relevance.
 
 6. **Transparency** —
-   Cultivate trust and ensure efficacy by swiftly documenting and continuously sharing decision-making processes.
+   Build trust by documenting and sharing decisions promptly and consistently.
 
 7. **Professionalism** —
-   Consider _all_ hackers as equals, exhibit decorum, and cultivate self-discipline.
+   Treat _all_ hackers equally, maintain decorum, and cultivate discipline.
 
 ## Scope
 
-This code governs all correspondence within [canonical project spaces][canon], which are defined as any platform or venue where project activities are conducted.
+This code governs all correspondence within [canonical project spaces][canon], defined as any platform or venue for project activities.
 
 ## Eligibility
 
-Contribution implies a binding commitment to this Code of Ethics, in its entirety. Actions which subvert these fundamentals, such as prioritizing orthogonal agendas, engaging in divisive conduct, or squandering project resources are subject to review and potential [remediation](./docs/remediation.md).
+Contributing implies a binding commitment to this Code of Ethics. Any actions that compromise these principles, including prioritizing orthogonal agendas or engaging in divisive conduct, will be subject to review and potential [remediation](./docs/remediation.md).
 
 [canon]: ./docs/spaces.md
 [owners]: ./docs/CODEOWNERS
