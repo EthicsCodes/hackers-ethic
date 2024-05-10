@@ -1,20 +1,22 @@
 # Code of Ethics
 
-Welcome to our Hacker Code of Ethics, outlining the core values guiding our conduct and decisions, anchored in respect for individual rights and collaborative integrity. This is a living document, open to updates that align with these ethical principles and enhance our common understanding.
+Welcome to our Hacker Code of Ethics, outlining the core values guiding our conduct and decisions; placing individual rights and the continuity of collaboration at the foundation.
+
+This framework is amenable to revisions which align with its aims and enhance our common understanding.
 
 ## Hackers' Ethos
 
-We commit to guiding our collaborative efforts and individual contributions with respect, autonomy, integrity, openness, and pragmatism.
+We resolve to guide our collaborative efforts and individual contributions with respect, autonomy, integrity, and pragmatism.
 
-Meticulously crafting transparent processes and tools, we safeguard these values, nurturing a community where innovation and mutual respect flourish.
+Meticulously crafting processes and tools that adhere to our ethical standards, we safeguard our project in goodwill through innovation.
 
-We welcome all who share this vision, uniting in our pursuit of joint progress and individual freedom.
+We welcome all who embrace this vision, uniting in our pursuit of joint progress and individual freedom.
 
 ## Hacker's Bond
 
 I pledge to uphold this Ethic, committing to think freely and recognizing these tenets and Ethos as essential for productive cooperation and collective success.
 
-I dedicate myself to advancing the project, the well-being of its participants, and my own skills and knowledge, enacting these values in all my interactions.
+I dedicate myself to advancing the project, the well-being of its participants, and my own skills and knowledge, enacting this bond in all my interactions.
 
 ## Tenets
 
@@ -25,7 +27,7 @@ I dedicate myself to advancing the project, the well-being of its participants, 
    Strive for simplicity, avoiding unnecessary complexity.
 
 3. **Flexibility** —
-   Be open, collaborate, experiment, innovate, adapt, and evolve.
+   Be open, collaborate, experiment, innovate, adapt, reify, and repeat...
 
 4. **Accountability** —
    Own your actions and their impacts, fostering clear and shared responsibility.
@@ -45,7 +47,9 @@ This code governs all correspondence within [canonical project spaces][canon], d
 
 ## Eligibility
 
-Contributing implies a binding commitment to this Code of Ethics. Any actions that compromise these principles, including prioritizing orthogonal agendas or engaging in divisive conduct, will be subject to review and potential [remediation](./docs/remediation.md).
+Contributing implies fundamental agreement with this Code of Ethics.
+
+Any actions that compromise it, including prioritizing orthogonal agendas or engaging in divisive conduct, will be subject to review and potential [remediation](./docs/remediation.md).
 
 [canon]: ./docs/spaces.md
 [owners]: ./docs/CODEOWNERS
