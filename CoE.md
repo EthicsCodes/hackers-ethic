@@ -26,7 +26,7 @@ I pledge to uphold this Ethic, committing to think freely and recognizing these 
    Be open, collaborate, experiment, innovate, adapt, and evolve.
 
 4. **Accountability** —
-   Own your actions and their impacts.
+   Own your actions and their impacts, fostering clear and shared responsibility.
 
 5. **Analysis** —
    Scrutinize change requests for quality, conciseness, and relevance.
