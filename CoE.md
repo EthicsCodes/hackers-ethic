@@ -14,7 +14,7 @@ We invite those who share these values to contribute to a space governed by clea
 
 I pledge to uphold this Ethic, committing to think freely and recognizing these tenets and Ethos as essential for productive cooperation and collective success. I dedicate myself to advancing the project, the well-being of its participants, and my own skills and knowledge, enacting these values in all my interactions.
 
-### Tenets
+## Tenets
 
 1. **Purpose** —
    Advance the project's [technical goals][goals] in alignment with the [project owner(s)'][owners] vision.
