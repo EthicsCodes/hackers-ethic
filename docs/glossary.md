@@ -1,8 +1,8 @@
-# Introduction
+# Glossary
 
-To maintain the conciseness and focus of our main [Code of Ethics](../CoE.md), this separate glossary provides authoritative definitions for key terms to enhance clarity and understanding within our project.
+To maintain the conciseness and focus of our main [Code of Ethics](../CoE.md), this separate glossary provides authoritative yet flexible definitions for key terms to enhance clarity and understanding within our project. These definitions are designed to assist with consistent application and a shared understanding of crucial concepts, serving as helpful guidelines rather than rigid prescriptions.
 
-These definitions are intended to ensure consistent application and a shared understanding of crucial concepts. We encourage feedback and suggestions for revisions or additions to keep this resource relevant and up-to-date.
+We value the dynamic nature of our work and encourage feedback and suggestions for revisions or additions to keep this resource adaptive and up-to-date. While these definitions are intended to be prioritized for clarity, we recognize the importance of context and practicality in their application.
 
 ## Definitions
 
