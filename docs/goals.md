@@ -71,4 +71,18 @@ The primary aim of this repository is to distill core ethical principles that up
 
 ## Subsidiary Goals
 
-<!--- TODO -->
+### Enhance Clarity and Minimize Ambiguity
+
+Strive to enhance clarity and minimize ambiguity in all project contexts, applying flexibility and adhering to our tenets. This goal directly supports the tenet of **Transparency** by ensuring that directions and intentions are clear, ensuring productive advancement towards our desired outcomes.
+
+### Foster a Harmonious Environment
+
+Proactively cultivate an environment that minimizes pressure and prevents conflicts. This approach upholds our commitment to **Professionalism** and **Respect**, ensuring productive and respectful interactions among all participants.
+
+### Promote Continuous Learning and Improvement
+
+Encourage continuous learning and iterative improvement within the project. This goal aligns with the tenet of **Flexibility**, fostering an environment where feedback is valued, and every contribution is seen as a step towards collective growth.
+
+### Minimize Compulsion
+
+Establish clear boundaries and expectations upfront to emphasize autonomy and self-directed advancement. Remediation is a last resort, used to reflect on and improve our processes. This strategy minimizes the need for enforced corrective actions while maximizing **Accountability** and **Transparency**, supporting a culture of mutual respect and proactive engagement.
