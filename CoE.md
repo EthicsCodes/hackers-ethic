@@ -12,7 +12,9 @@ We welcome all who share this vision, uniting in our pursuit of joint progress a
 
 ## Hacker's Bond
 
-I pledge to uphold this Ethic, committing to think freely and recognizing these tenets and Ethos as essential for productive cooperation and collective success. I dedicate myself to advancing the project, the well-being of its participants, and my own skills and knowledge, enacting these values in all my interactions.
+I pledge to uphold this Ethic, committing to think freely and recognizing these tenets and Ethos as essential for productive cooperation and collective success.
+
+I dedicate myself to advancing the project, the well-being of its participants, and my own skills and knowledge, enacting these values in all my interactions.
 
 ## Tenets
 
