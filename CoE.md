@@ -4,11 +4,11 @@ Welcome to our Hacker Code of Ethics, outlining the core values guiding our cond
 
 ## Hackers' Ethos
 
-As independent operators, individuals commit to respect, autonomy, integrity, openness, and pragmatism, aligning their efforts with clearly defined project goals.
+We commit to guiding our collaborative efforts and individual contributions with respect, autonomy, integrity, openness, and pragmatism.
 
-Transparent processes are established to uphold these principles, ensuring personal autonomy and advancing our collective mission.
+Meticulously crafting transparent processes and tools, we safeguard these values, nurturing a community where innovation and mutual respect flourish.
 
-We invite those who share these values to contribute to a space governed by clear ethical standards and mutual respect.
+We welcome all who share this vision, uniting in our pursuit of joint progress and individual freedom.
 
 ## Hacker's Bond
 
