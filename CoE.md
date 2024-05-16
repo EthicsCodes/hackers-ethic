@@ -16,7 +16,7 @@ We welcome all who embrace this vision, uniting in our pursuit of joint progress
 
 I pledge to uphold this Ethic, recognizing these tenets and Ethos as essential for productive cooperation and collective success.
 
-Committed to thinking freely, I dedicate myself to advancing the project, the well-being of its participants, and my own skills and knowledge.
+Committed to think freely, never to hinder the free expression of others; I dedicate myself to advancing the project, the well-being of its participants, and my own skills and knowledge.
 
 I will enact this Ethic in all my dealings here; my word as my bond.
 
