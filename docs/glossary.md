@@ -50,7 +50,7 @@ We value the dynamic nature of our work and encourage feedback and suggestions f
   <dd>Approaching problems and solutions based on practical considerations, focusing on effective outcomes and efficiency, while balancing idealistic goals with feasible implementations.</dd>
 
   <dt id="professionalism"><strong>Professionalism</strong></dt>
-  <dd>Conducting oneself with discipline and courtesy, treating all interactions within the project with seriousness and respect, and adhering to the ethical standards set forth.</dd>
+  <dd>Conducting oneself with discipline and courtesy, treating all interactions within the project with seriousness and respect, and adhering to the ethical standards set forth. Professionalism also entails making informed decisions based on evidence and critical thinking, rather than presumptions or assumptions. This means avoiding hasty judgments and ensuring that actions and decisions are well-considered and justified, reflecting a commitment to accuracy, fairness, and integrity.</dd>
 
   <dt id="project-owners"><strong>Project Owner(s)</strong></dt>
   <dd>Individual(s) with the ultimate authority and responsibility for the overall direction and success of the project. Project owners set the vision, define the project’s goals, and ensure resources are allocated efficiently. While they delegate specific responsibilities, they retain the final decision-making power unless explicitly overridden as per defined project governance structures.</dd>
