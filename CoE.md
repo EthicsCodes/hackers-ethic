@@ -32,7 +32,7 @@ With my word as my Bond, I will enact this Ethic in all my dealings here.
    Be open, collaborate, experiment, innovate, adapt, reify, and repeat...
 
 4. **Accountability** —
-   Own your actions and their impacts, fostering clear and shared responsibility.
+   Own your actions and their impacts within the project.
 
 5. **Analysis** —
    Scrutinize change requests for quality, conciseness, and relevance.
