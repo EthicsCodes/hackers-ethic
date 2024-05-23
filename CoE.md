@@ -16,9 +16,9 @@ We welcome all who embrace this vision, uniting in our pursuit of joint progress
 
 I pledge to uphold this Ethic, recognizing these Tenets and Ethos as essential for productive cooperation and collective success.
 
-Committed to think freely, never to hinder the free expression of others; I dedicate myself to advancing the project, the well-being of its participants, and my own skills and knowledge.
+Committed to thinking freely while ensuring the same for others; I dedicate myself to advancing the project, the well-being of its participants, and my own skills and knowledge.
 
-With my word as my Bond, I will enact this Ethic in all my dealings here.
+With my word as my Bond, I enact this Ethic in all my dealings here.
 
 ## Tenets
 
@@ -32,7 +32,7 @@ With my word as my Bond, I will enact this Ethic in all my dealings here.
    Be open, collaborate, experiment, innovate, adapt, reify, and repeat...
 
 4. **Accountability** —
-   Own your actions and their impacts, fostering clear and shared responsibility.
+   Own your actions and their impacts within the project.
 
 5. **Analysis** —
    Scrutinize change requests for quality, conciseness, and relevance.
