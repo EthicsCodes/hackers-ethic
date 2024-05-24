@@ -41,7 +41,7 @@ With my word as my Bond, I enact this Ethic in all my dealings here.
    Build trust by documenting and sharing decisions promptly and consistently.
 
 7. **Professionalism** —
-   Treat _all_ hackers equally, maintain decorum, and cultivate discipline.
+   Treat _all_ hackers fairly, maintain decorum, and cultivate discipline.
 
 ## Scope
 
