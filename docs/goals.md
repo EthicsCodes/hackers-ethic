@@ -86,3 +86,7 @@ Encourage continuous learning and iterative improvement within the project. This
 ### Minimize Compulsion
 
 Establish clear boundaries and expectations upfront to emphasize autonomy and self-directed advancement. Remediation is a last resort, used to reflect on and improve our processes. This strategy minimizes the need for enforced corrective actions while maximizing **Accountability** and **Transparency**, supporting a culture of mutual respect and proactive engagement.
+
+### Encourage Explicit Buy-In
+
+Advocating for explicit buy-in bolsters self-governance and aligns with our principles, naturally fostering **Flexibility**, seamless **Professionalism**, and inherent **Simplicity** as we scale. This approach simplifies adherence and makes shared agreement intuitive, reinforcing our core values efficiently.
