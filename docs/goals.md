@@ -73,11 +73,11 @@ The primary aim of this repository is to distill core ethical principles that up
 
 ### Enhance Clarity and Minimize Ambiguity
 
-Strive to enhance clarity and minimize ambiguity in all project contexts, applying flexibility and adhering to our tenets. This goal directly supports the tenet of **Transparency** by ensuring that directions and intentions are clear, ensuring productive advancement towards our desired outcomes.
+Strive to enhance clarity and minimize ambiguity in all project contexts, applying **Flexibility** and adhering to the other tenets. This goal directly supports the tenet of **Transparency** by ensuring that directions and intentions are clear, ensuring productive advancement towards our desired outcomes.
 
 ### Foster a Harmonious Environment
 
-Proactively cultivate an environment that minimizes pressure and prevents conflicts. This approach upholds our commitment to **Professionalism** and **Respect**, ensuring productive and respectful interactions among all participants.
+Proactively cultivate an environment that minimizes pressure and prevents conflicts. This approach upholds our commitment to **Professionalism**, ensuring productive and respectful interactions among all participants.
 
 ### Promote Continuous Learning and Improvement
 
