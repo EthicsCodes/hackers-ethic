@@ -6,11 +6,11 @@ This framework is amenable to revisions which align with its aims and enhance ou
 
 ## Hackers' Ethos
 
-We resolve to guide our collaborative efforts and individual contributions with respect, autonomy, integrity, and pragmatism.
+Guided by respect, autonomy, integrity, curiosity, and pragmatism, the status quo is challenged to solve real-world problems.
 
-Meticulously crafting processes and tools that adhere to our ethical standards, we safeguard our project in goodwill through innovation.
+With the courage to see it through, processes and tools are forged to meet ethical standards, ensuring the project's success through innovation.
 
-We welcome all who embrace this vision, uniting in our pursuit of joint progress and individual freedom.
+All who embrace this vision are welcomed, uniting in the pursuit of joint progress and individual freedom.
 
 ## Hacker's Bond
 
