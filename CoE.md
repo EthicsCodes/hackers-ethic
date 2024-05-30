@@ -20,7 +20,7 @@ Committed to thinking freely while ensuring the same for others; I dedicate myse
 
 With my word as my Bond, I enact this Ethic in all my dealings here.
 
-## Tenets
+## Ranked Tenets
 
 1. **Purpose** —
    Advance the project's [technical goals][goals] in alignment with the [project owner(s)'][owners] vision.
