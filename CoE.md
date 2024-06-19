@@ -28,20 +28,21 @@ With my word as my Bond, I enact this Ethic in all my dealings here.
 2. **Simplicity** —
    Strive for simplicity, avoiding unnecessary complexity.
 
-3. **Flexibility** —
-   Be open, collaborate, experiment, innovate, adapt, reify, and repeat...
-
-4. **Accountability** —
-   Own your actions and their impacts within the project.
-
-5. **Analysis** —
-   Scrutinize change requests for quality, conciseness, and relevance.
-
-6. **Transparency** —
+3. **Transparency** —
    Build trust by documenting and sharing decisions promptly and consistently.
 
-7. **Professionalism** —
+4. **Analysis** —
+   Scrutinize change requests for quality, conciseness, and relevance.
+
+5. **Accountability** —
+   Own your actions and their impacts within the project.
+
+6. **Professionalism** —
    Treat _all_ hackers fairly, maintain decorum, and cultivate discipline.
+
+7. **Flexibility** —
+   Be open, collaborate, experiment, innovate, adapt, reify, and repeat...
+
 
 ## Scope
 
