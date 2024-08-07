@@ -1,6 +1,6 @@
-# Code of Ethics
+# Hackers' Ethic
 
-Welcome to our Hacker Code of Ethics, outlining the core values guiding our conduct and decisions; placing individual rights and the continuity of collaboration at the foundation.
+Welcome to our Code of Ethics, outlining the core values guiding our conduct and decisions; placing individual rights and the continuity of collaboration at the foundation.
 
 This framework is amenable to revisions which align with its aims and enhance our common understanding.
 
@@ -57,3 +57,10 @@ Any actions that compromise it, including prioritizing orthogonal agendas or eng
 [canon]: ./docs/spaces.md
 [owners]: ./docs/CODEOWNERS
 [goals]: ./docs/goals.md
+
+## Attribution
+
+This Code is adapted from the [Hackers' Ethic](https://ethics.codes), version 1.0.
+
+This work is licensed under the Creative Commons Attribution 4.0 International License.
+To view a copy of this license, visit http://creativecommons.org/licenses/by/4.0.
