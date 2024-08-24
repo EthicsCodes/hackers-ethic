@@ -1,24 +1,22 @@
 # Hackers' Ethic
 
-Welcome to our Code of Ethics, outlining the core values guiding our conduct and decisions; placing individual rights and the continuity of collaboration at the foundation.
+This Code of Ethics outlines core values guiding our conduct and decisions, prioritizing individual rights and collaborative continuity.
 
-This framework is amenable to revisions which align with its aims and enhance our common understanding.
+This framework is open to revisions that align with its aims and enhance our common understanding.
 
 ## Ethos
 
-Guided by respect, autonomy, integrity, curiosity, and pragmatism, the status quo is challenged to solve real-world problems.
+Guided by respect, autonomy, integrity, curiosity, and pragmatism, we challenge the status quo to solve real-world problems.
 
-With the courage to see it through, processes and tools are forged to meet ethical standards, ensuring the project's success through innovation.
+We forge and promote processes and tools which ensure ethical innovation for hackers _and_ humans alike.
 
-All who embrace this vision are welcomed, uniting in the pursuit of joint progress and individual freedom.
+Any who embrace this vision are welcome, uniting in pursuit of joint progress and freedom.
 
 ## Bond
 
-I pledge to uphold this Ethic, recognizing these Tenets and Ethos as essential for productive cooperation and collective success.
+My word as my Bond, I pledge to uphold this Ethic, recognizing these Tenets and Ethos as essential for productive cooperation and project success.
 
-Committed to thinking freely while ensuring the same for others; I dedicate myself to advancing the project, the well-being of its participants, and my own skills and knowledge.
-
-With my word as my Bond, I enact this Ethic in all my dealings here.
+In this spirit, I commit to thinking freely to ensure the same for others and dedicate myself to advancing the project, the well-being of its hackers, and my own skills.
 
 ## Tenets
 
@@ -43,16 +41,13 @@ With my word as my Bond, I enact this Ethic in all my dealings here.
 7. **Flexibility** —
    Be open, collaborate, experiment, innovate, adapt, reify, and repeat...
 
-
 ## Scope
 
-This code governs all correspondence within [canonical project spaces][canon], defined as any platform or venue for project activities.
+This code governs all interactions within [canonical project spaces][canon].
 
 ## Eligibility
 
-Contributing implies fundamental agreement with this Code of Ethics.
-
-Any actions that compromise it, including prioritizing orthogonal agendas or engaging in divisive conduct, will be subject to review and potential [remediation](./docs/remediation.md).
+Contributing implies agreement with this Code of Ethics. Actions compromising it, including prioritizing external agendas or engaging in divisive conduct, are subject to review and potential [remediation](./docs/remediation.md).
 
 [canon]: ./docs/spaces.md
 [owners]: ./docs/CODEOWNERS
