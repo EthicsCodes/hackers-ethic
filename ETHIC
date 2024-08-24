@@ -14,14 +14,14 @@ Any who embrace this vision are welcome, uniting in pursuit of joint progress an
 
 ## Bond
 
-My word as my Bond, I pledge to uphold this Ethic, recognizing these Tenets and Ethos as essential for productive cooperation and project success.
+My word as my Bond, I pledge to uphold this Ethic, recognizing these Tenets and Ethos as essential for productive cooperation.
 
 In this spirit, I commit to thinking freely to ensure the same for others and dedicate myself to advancing the project, the well-being of its hackers, and my own skills.
 
 ## Tenets
 
 1. **Purpose** —
-   Advance the project's [technical goals][goals] in alignment with the [project owner(s)'][owners] vision.
+   Advance [technical goals][goal] in alignment with the [leaderships'][lead] vision.
 
 2. **Simplicity** —
    Strive for simplicity, avoiding unnecessary complexity.
@@ -33,7 +33,7 @@ In this spirit, I commit to thinking freely to ensure the same for others and de
    Scrutinize change requests for quality, conciseness, and relevance.
 
 5. **Accountability** —
-   Own your actions and their impacts within the project.
+   Eagerly own your actions and their impacts.
 
 6. **Professionalism** —
    Treat _all_ hackers fairly, maintain decorum, and cultivate discipline.
@@ -43,15 +43,16 @@ In this spirit, I commit to thinking freely to ensure the same for others and de
 
 ## Scope
 
-This code governs all interactions within [canonical project spaces][canon].
+This code governs all interaction within [canonical project spaces][canon].
 
 ## Eligibility
 
-Contributing implies agreement with this Code of Ethics. Actions compromising it, including prioritizing external agendas or engaging in divisive conduct, are subject to review and potential [remediation](./docs/remediation.md).
+Contributing implies agreement with this Code of Ethics. Actions compromising it, including prioritizing external agendas or engaging in divisive conduct, are subject to review and [remediation][policy].
 
-[canon]: ./docs/spaces.md
-[owners]: ./docs/CODEOWNERS
-[goals]: ./docs/goals.md
+[goal]: :URL
+[lead]: :URL
+[canon]: :URL
+[policy]: :URL
 
 ## Attribution
 
