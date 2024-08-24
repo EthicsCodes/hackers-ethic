@@ -1,1 +1,1 @@
-CoE.md
+ETHIC
