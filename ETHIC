@@ -49,10 +49,10 @@ This code governs all interaction within [canonical project spaces][canon].
 
 Contributing implies agreement with this Code of Ethics. Actions compromising it, including prioritizing external agendas or engaging in divisive conduct, are subject to review and [remediation][policy].
 
-[goal]: :URL
-[lead]: :URL
-[canon]: :URL
-[policy]: :URL
+[goal]: docs/goals.md
+[lead]: docs/CODEOWNERS
+[canon]: docs/spaces.md
+[policy]: docs/remediation.md
 
 ## Attribution
 
